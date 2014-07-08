@@ -13,5 +13,6 @@ NOTE: It's a console application so the job will be done automatically in a comm
 
 Things to do:
 * Implement support for IE.
-* Test it on older version of Windows operating system.
-* Moving implementations for different browsers to a separate functions instead of Form.Load event where they are now.
+* Test it on Windows Vista and Windows 7.
+* Apply a fix for Windows XP.
+* Move implementations for different browsers to a separate functions instead of Form.Load event.
