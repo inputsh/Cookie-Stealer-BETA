@@ -1,0 +1,27 @@
+C:\Users\Aleksandar\AppData\Local\Temporary Projects\CookieStealer\bin\Debug\CookieStealer.exe.config
+C:\Users\Aleksandar\AppData\Local\Temporary Projects\CookieStealer\bin\Debug\CookieStealer.exe
+C:\Users\Aleksandar\AppData\Local\Temporary Projects\CookieStealer\bin\Debug\CookieStealer.pdb
+C:\Users\Aleksandar\AppData\Local\Temporary Projects\CookieStealer\bin\Debug\CookieStealer.xml
+C:\Users\Aleksandar\AppData\Local\Temporary Projects\CookieStealer\obj\Debug\CookieStealer.Resources.resources
+C:\Users\Aleksandar\AppData\Local\Temporary Projects\CookieStealer\obj\Debug\CookieStealer.vbproj.GenerateResource.Cache
+C:\Users\Aleksandar\AppData\Local\Temporary Projects\CookieStealer\obj\Debug\CookieStealer.exe
+C:\Users\Aleksandar\AppData\Local\Temporary Projects\CookieStealer\obj\Debug\CookieStealer.xml
+C:\Users\Aleksandar\AppData\Local\Temporary Projects\CookieStealer\obj\Debug\CookieStealer.pdb
+C:\Users\Aleksandar\Desktop\Cloud\Visual Studio projekti\CookieStealer\CookieStealer\bin\Debug\CookieStealer.exe.config
+C:\Users\Aleksandar\Desktop\Cloud\Visual Studio projekti\CookieStealer\CookieStealer\obj\Debug\CookieStealer.exe
+C:\Users\Aleksandar\Desktop\Cloud\Visual Studio projekti\CookieStealer\CookieStealer\obj\Debug\CookieStealer.xml
+C:\Users\Aleksandar\Desktop\Cloud\Visual Studio projekti\CookieStealer\CookieStealer\obj\Debug\CookieStealer.pdb
+C:\Users\Aleksandar\Desktop\Cloud\Visual Studio projekti\CookieStealer\CookieStealer\bin\Debug\CookieStealer.exe
+C:\Users\Aleksandar\Desktop\Cloud\Visual Studio projekti\CookieStealer\CookieStealer\bin\Debug\CookieStealer.pdb
+C:\Users\Aleksandar\Desktop\Cloud\Visual Studio projekti\CookieStealer\CookieStealer\bin\Debug\CookieStealer.xml
+C:\Users\Aleksandar\Desktop\Cloud\Visual Studio projekti\CookieStealer\CookieStealer\obj\Debug\CookieStealer.Resources.resources
+C:\Users\Aleksandar\Desktop\Cloud\Visual Studio projekti\CookieStealer\CookieStealer\obj\Debug\CookieStealer.vbproj.GenerateResource.Cache
+E:\CookieStealer\CookieStealer\bin\Debug\CookieStealer.exe.config
+E:\CookieStealer\CookieStealer\obj\Debug\CookieStealer.exe
+E:\CookieStealer\CookieStealer\obj\Debug\CookieStealer.xml
+E:\CookieStealer\CookieStealer\obj\Debug\CookieStealer.pdb
+E:\CookieStealer\CookieStealer\bin\Debug\CookieStealer.exe
+E:\CookieStealer\CookieStealer\bin\Debug\CookieStealer.pdb
+E:\CookieStealer\CookieStealer\bin\Debug\CookieStealer.xml
+E:\CookieStealer\CookieStealer\obj\Debug\CookieStealer.Resources.resources
+E:\CookieStealer\CookieStealer\obj\Debug\CookieStealer.vbproj.GenerateResource.Cache
